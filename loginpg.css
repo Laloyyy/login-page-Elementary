@@ -1,0 +1,36 @@
+section{
+    background-image: url(gbr_login.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+div.card{
+    background-color: rgb(9, 10, 26);
+    
+}
+nav.navbar{
+    background-color: rgb(9, 10, 26);
+    
+}
+nav a{
+    color: white;
+    
+    
+}
+body{
+    poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+}
+footer{
+    background-color: rgb(9, 10, 26);
+    height: 70px;    
+    align-content: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
